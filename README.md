@@ -1,2 +1,1 @@
-# Dynamically-make-active-pages-using-php
-setting url to active using using php
+Dynamically setting the class of a page active using php
